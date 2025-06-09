@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World Web hook testing ngork new' 
+                echo 'Hello World Web hook testing ngork new with script path' 
             }
         }
     }
